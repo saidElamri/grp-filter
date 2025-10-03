@@ -19,27 +19,9 @@ A simple Flask web application to randomly organize students into groups of 4 wi
 - Python 3.6 or higher
 - Flask
 
-## Installation
 
-### Step 1: Install Python
-Make sure Python is installed on your system. Check by running:
-```bash
-python --version
-```
-or
-```bash
-python3 --version
-```
 
-If not installed, download from [python.org](https://www.python.org/downloads/)
-
-### Step 2: Create Project Directory
-```bash
-mkdir student_groups
-cd student_groups
-```
-
-### Step 3: Install Flask
+### Step 1: Install Flask
 ```bash
 pip install flask
 ```
@@ -48,31 +30,11 @@ or
 pip3 install flask
 ```
 
-### Step 4: Save the Application
+### Step 2: Save the Application
 Create a file named `app.py` and paste the application code into it.
 
 ## Usage
 
-### Running the Application
-
-1. Open terminal/command prompt in the project directory
-2. Run the application:
-   ```bash
-   python app.py
-   ```
-   or
-   ```bash
-   python3 app.py
-   ```
-
-3. Open your web browser and go to:
-   ```
-   http://127.0.0.1:5000
-   ```
-   or
-   ```
-   http://localhost:5000
-   ```
 
 ### Using the Application
 
@@ -143,31 +105,11 @@ num_groups = len(shuffled) // 4  # Change 4 to your desired group size
 
 If you need persistent storage (saving students permanently), consider adding a database or file storage system.
 
-## Troubleshooting
-
-**Problem**: `ModuleNotFoundError: No module named 'flask'`
-- **Solution**: Install Flask using `pip install flask` or `pip3 install flask`
-
-**Problem**: Port already in use
-- **Solution**: Stop other applications using port 5000, or change the port in the last line of `app.py`:
-  ```python
-  app.run(debug=True, port=5001)  # Use a different port
-  ```
-
-**Problem**: "Not Found" error when clicking buttons
-- **Solution**: Make sure you're using the latest version of the code with `url_for()` functions
 
 ## License
 
 This project is free to use and modify for educational purposes.
 
-## Support
-
-For issues or questions, please check that:
-1. Flask is properly installed
-2. You're running the correct Python version
-3. The application is running before opening the browser
-4. You're using the correct URL (http://127.0.0.1:5000)
 
 ---
 
