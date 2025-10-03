@@ -19,27 +19,9 @@ A simple Flask web application to randomly organize students into groups of 4 wi
 - Python 3.6 or higher
 - Flask
 
-## Installation
 
-### Step 1: Install Python
-Make sure Python is installed on your system. Check by running:
-```bash
-python --version
-```
-or
-```bash
-python3 --version
-```
 
-If not installed, download from [python.org](https://www.python.org/downloads/)
-
-### Step 2: Create Project Directory
-```bash
-mkdir student_groups
-cd student_groups
-```
-
-### Step 3: Install Flask
+### Step 1: Install Flask
 ```bash
 pip install flask
 ```
@@ -48,31 +30,11 @@ or
 pip3 install flask
 ```
 
-### Step 4: Save the Application
+### Step 2: Save the Application
 Create a file named `app.py` and paste the application code into it.
 
 ## Usage
 
-### Running the Application
-
-1. Open terminal/command prompt in the project directory
-2. Run the application:
-   ```bash
-   python app.py
-   ```
-   or
-   ```bash
-   python3 app.py
-   ```
-
-3. Open your web browser and go to:
-   ```
-   http://127.0.0.1:5000
-   ```
-   or
-   ```
-   http://localhost:5000
-   ```
 
 ### Using the Application
 
