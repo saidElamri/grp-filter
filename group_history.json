@@ -1,0 +1,981 @@
+[
+  {
+    "date": "2025-10-03 14:44:24",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [
+        "El bahia",
+        "Moubarak",
+        "Fatima",
+        "Khadija"
+      ],
+      [
+        "Rachid",
+        "Khaoula",
+        "Saida",
+        "Chami"
+      ],
+      [
+        "Ben Ihda",
+        "Manal",
+        "El Ouardy",
+        "Mohamed"
+      ],
+      [
+        "Youssef",
+        "Hamza",
+        "Said",
+        "Ismail"
+      ],
+      [
+        "Maryem Ben",
+        "Nouhaila",
+        "Chaima",
+        "Lahcen"
+      ],
+      [
+        "Assma",
+        "Yassine",
+        "Ayoub",
+        "Maryem"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 14:45:46",
+    "num_groups": 5,
+    "group_size": 4,
+    "groups": [
+      [
+        "Yassine",
+        "Mohamed",
+        "Lahcen",
+        "Moubarak"
+      ],
+      [
+        "Ben Ihda",
+        "Nouhaila",
+        "El bahia",
+        "Hamza"
+      ],
+      [
+        "Ismail",
+        "Saida",
+        "Said",
+        "Chaima"
+      ],
+      [
+        "Youssef",
+        "Ayoub",
+        "Chami",
+        "Maryem Ben"
+      ],
+      [
+        "Fatima",
+        "Rachid",
+        "Assma",
+        "Khadija"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 14:45:47",
+    "num_groups": 5,
+    "group_size": 4,
+    "groups": [
+      [
+        "Chami",
+        "Ismail",
+        "Maryem",
+        "Lahcen"
+      ],
+      [
+        "Hamza",
+        "Maryem Ben",
+        "El bahia",
+        "Moubarak"
+      ],
+      [
+        "Saida",
+        "Chaima",
+        "Mohamed",
+        "Said"
+      ],
+      [
+        "El Ouardy",
+        "Khaoula",
+        "Khadija",
+        "Youssef"
+      ],
+      [
+        "Fatima",
+        "Assma",
+        "Yassine",
+        "Ben Ihda"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 14:45:48",
+    "num_groups": 5,
+    "group_size": 4,
+    "groups": [
+      [
+        "Chaima",
+        "Maryem",
+        "Youssef",
+        "Saida"
+      ],
+      [
+        "Khaoula",
+        "Ayoub",
+        "Ismail",
+        "El Ouardy"
+      ],
+      [
+        "Fatima",
+        "Hamza",
+        "Chami",
+        "Yassine"
+      ],
+      [
+        "Rachid",
+        "Maryem Ben",
+        "El bahia",
+        "Lahcen"
+      ],
+      [
+        "Moubarak",
+        "Mohamed",
+        "Khadija",
+        "Assma"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 14:45:48",
+    "num_groups": 5,
+    "group_size": 4,
+    "groups": [
+      [
+        "Said",
+        "Mohamed",
+        "El Ouardy",
+        "Chami"
+      ],
+      [
+        "Nouhaila",
+        "Maryem Ben",
+        "Ismail",
+        "Rachid"
+      ],
+      [
+        "El bahia",
+        "Assma",
+        "Khaoula",
+        "Maryem"
+      ],
+      [
+        "Youssef",
+        "Chaima",
+        "Fatima",
+        "Ayoub"
+      ],
+      [
+        "Hamza",
+        "Khadija",
+        "Yassine",
+        "Lahcen"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 14:55:57",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [
+        "Ayoub",
+        "Maryem",
+        "Youssef",
+        "Moubarak"
+      ],
+      [
+        "Fatima",
+        "El Ouardy",
+        "Chaima",
+        "Nouhaila"
+      ],
+      [
+        "Khaoula",
+        "Mohamed",
+        "Manal",
+        "Rachid"
+      ],
+      [
+        "Ismail",
+        "Hamza",
+        "Maryem Ben",
+        "Ben Ihda"
+      ],
+      [
+        "Yassine",
+        "Chami",
+        "Lahcen",
+        "Saida"
+      ],
+      [
+        "Assma",
+        "El bahia",
+        "Khadija",
+        "Said"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 15:04:16",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [
+        "Mohamed",
+        "Assma",
+        "Yassine",
+        "El Ouardy"
+      ],
+      [
+        "Nouhaila",
+        "Ben Ihda",
+        "Lahcen",
+        "Chaima"
+      ],
+      [
+        "Moubarak",
+        "Ismail",
+        "Rachid",
+        "El bahia"
+      ],
+      [
+        "Khaoula",
+        "Khadija",
+        "Fatima",
+        "Manal"
+      ],
+      [
+        "Chami",
+        "Maryem Ben",
+        "Hamza",
+        "Said"
+      ],
+      [
+        "Saida",
+        "Ayoub",
+        "Youssef",
+        "Maryem"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 15:19:50",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:19:53",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:04",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:05",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:05",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:06",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:07",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:07",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:09",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:11",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:19",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:20",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:20",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:20",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:21",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:21",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:21",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:22",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:22",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:31",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:49",
+    "num_groups": 12,
+    "group_size": 2,
+    "groups": [
+      [
+        "Ben Ihda",
+        "Moubarak"
+      ],
+      [
+        "Ismail",
+        "Nouhaila"
+      ],
+      [
+        "Youssef",
+        "Rachid"
+      ],
+      [
+        "El bahia",
+        "Hamza"
+      ],
+      [
+        "Mohamed",
+        "Khaoula"
+      ],
+      [
+        "Saida",
+        "Chami"
+      ],
+      [
+        "Yassine",
+        "Ayoub"
+      ],
+      [
+        "Maryem Ben",
+        "Manal"
+      ],
+      [
+        "Lahcen",
+        "Khadija"
+      ],
+      [
+        "El Ouardy",
+        "Chaima"
+      ],
+      [
+        "Fatima",
+        "Said"
+      ],
+      [
+        "Maryem",
+        "Assma"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 15:20:55",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [
+        "Moubarak",
+        "Lahcen",
+        "Ben Ihda",
+        "Manal"
+      ],
+      [
+        "Khadija",
+        "Hamza",
+        "Khaoula",
+        "Nouhaila"
+      ],
+      [
+        "Yassine",
+        "Fatima",
+        "Chami",
+        "Ismail"
+      ],
+      [
+        "Mohamed",
+        "El Ouardy",
+        "Saida",
+        "Maryem"
+      ],
+      [
+        "El bahia",
+        "Maryem Ben",
+        "Chaima",
+        "Youssef"
+      ],
+      [
+        "Assma",
+        "Said",
+        "Rachid",
+        "Ayoub"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 15:51:05",
+    "num_groups": 8,
+    "group_size": 3,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 15:51:07",
+    "num_groups": 8,
+    "group_size": 3,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:32:08",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:32:10",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:32:11",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:32:42",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [
+        "ravi3"
+      ],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:36:25",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:40:46",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [
+        "Rachid",
+        "Fatima",
+        "Yassine",
+        "Hamza"
+      ],
+      [
+        "Moubarak",
+        "Chami",
+        "Mohamed",
+        "Chaima"
+      ],
+      [
+        "Maryem",
+        "Assma",
+        "Ben Ihda",
+        "El bahia"
+      ],
+      [
+        "Ayoub",
+        "Saida",
+        "Said",
+        "El Ouardy"
+      ],
+      [
+        "Ismail",
+        "Nouhaila",
+        "Youssef",
+        "Lahcen"
+      ],
+      [
+        "Manal",
+        "Khadija",
+        "Maryem Ben",
+        "Khaoula"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 16:41:24",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [
+        "Fatima",
+        "Saida",
+        "Khaoula",
+        "Moubarak"
+      ],
+      [
+        "Rachid",
+        "Maryem",
+        "Hamza",
+        "Ismail"
+      ],
+      [
+        "Lahcen",
+        "Chaima",
+        "El Ouardy",
+        "Ayoub"
+      ],
+      [
+        "Maryem Ben",
+        "Manal",
+        "Yassine",
+        "Said"
+      ],
+      [
+        "Mohamed",
+        "El bahia",
+        "Assma",
+        "Chami"
+      ],
+      [
+        "Ben Ihda",
+        "Youssef",
+        "Khadija",
+        "Nouhaila"
+      ]
+    ]
+  },
+  {
+    "date": "2025-10-03 16:46:38",
+    "num_groups": 12,
+    "group_size": 2,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:47:02",
+    "num_groups": 8,
+    "group_size": 3,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:47:28",
+    "num_groups": 12,
+    "group_size": 2,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:48:16",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:48:38",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:48:39",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:49:02",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:49:03",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  },
+  {
+    "date": "2025-10-03 16:49:43",
+    "num_groups": 6,
+    "group_size": 4,
+    "groups": [
+      [
+        "Ismail",
+        "Chami",
+        "Khadija",
+        "Lahcen"
+      ],
+      [
+        "Saida",
+        "Hamza",
+        "El Ouardy",
+        "Youssef"
+      ],
+      [
+        "Fatima",
+        "Khaoula",
+        "Chaima",
+        "Maryem Ben"
+      ],
+      [
+        "El bahia",
+        "Maryem",
+        "Yassine",
+        "Rachid"
+      ],
+      [
+        "Nouhaila",
+        "Said",
+        "Ben Ihda",
+        "Moubarak"
+      ],
+      [
+        "Assma",
+        "Ayoub",
+        "Mohamed",
+        "Manal"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+{
+  "students": [
+    {
+      "name": "Manal",
+      "notes": "",
+      "absent": false,
+      "gender": "female",
+      "role": "Leader"
+    },
+    {
+      "name": "Moubarak",
+      "notes": "",
+      "absent": false,
+      "gender": "male",
+      "role": "Note-taker"
+    },
+    {
+      "name": "Lahcen",
+      "notes": "",
+      "absent": false,
+      "gender": "male",
+      "role": "Leader"
+    },
+    {
+      "name": "Chami",
+      "notes": "",
+      "absent": false,
+      "gender": "female",
+      "role": "Note-taker"
+    },
+    {
+      "name": "Assma",
+      "notes": "",
+      "absent": false,
+      "gender": "female",
+      "role": "Presenter"
+    },
+    {
+      "name": "Fatima",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Timekeeper"
+    },
+    {
+      "name": "Rachid",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Presenter"
+    },
+    {
+      "name": "Ayoub",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Timekeeper"
+    },
+    {
+      "name": "Ben Ihda",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Presenter"
+    },
+    {
+      "name": "Said",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Timekeeper"
+    },
+    {
+      "name": "Mohamed",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Timekeeper"
+    },
+    {
+      "name": "Chaima",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Note-taker"
+    },
+    {
+      "name": "Saida",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Leader"
+    },
+    {
+      "name": "Youssef",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Presenter"
+    },
+    {
+      "name": "Ismail",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Note-taker"
+    },
+    {
+      "name": "Maryem",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Leader"
+    },
+    {
+      "name": "Maryem Ben",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Presenter"
+    },
+    {
+      "name": "El Ouardy",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Note-taker"
+    },
+    {
+      "name": "Yassine",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Note-taker"
+    },
+    {
+      "name": "Nouhaila",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Timekeeper"
+    },
+    {
+      "name": "Hamza",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Leader"
+    },
+    {
+      "name": "Khaoula",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Timekeeper"
+    },
+    {
+      "name": "Khadija",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Presenter"
+    },
+    {
+      "name": "El bahia",
+      "notes": "",
+      "absent": false,
+      "gender": "",
+      "role": "Leader"
+    }
+  ],
+  "restrictions": []
+}
