@@ -105,31 +105,11 @@ num_groups = len(shuffled) // 4  # Change 4 to your desired group size
 
 If you need persistent storage (saving students permanently), consider adding a database or file storage system.
 
-## Troubleshooting
-
-**Problem**: `ModuleNotFoundError: No module named 'flask'`
-- **Solution**: Install Flask using `pip install flask` or `pip3 install flask`
-
-**Problem**: Port already in use
-- **Solution**: Stop other applications using port 5000, or change the port in the last line of `app.py`:
-  ```python
-  app.run(debug=True, port=5001)  # Use a different port
-  ```
-
-**Problem**: "Not Found" error when clicking buttons
-- **Solution**: Make sure you're using the latest version of the code with `url_for()` functions
 
 ## License
 
 This project is free to use and modify for educational purposes.
 
-## Support
-
-For issues or questions, please check that:
-1. Flask is properly installed
-2. You're running the correct Python version
-3. The application is running before opening the browser
-4. You're using the correct URL (http://127.0.0.1:5000)
 
 ---
 
